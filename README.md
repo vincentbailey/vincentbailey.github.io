@@ -1,1 +1,0 @@
-# vincentbailey.github.io

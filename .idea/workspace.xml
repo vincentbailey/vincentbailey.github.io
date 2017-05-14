@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed6ec958-0031-4437-a3f9-d5990ec354d5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fields2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fields3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fields4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fields5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hosting2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hosting3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hosting4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hosting5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lang2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lang3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lang4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lang5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tools5.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/designer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/developer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/free.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/github.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/html.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/webdev.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fields.html" afterPath="$PROJECT_DIR$/fields.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hosting.html" afterPath="$PROJECT_DIR$/hosting.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lang.html" afterPath="$PROJECT_DIR$/lang.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools.html" afterPath="$PROJECT_DIR$/tools.html" />
-    </list>
+    <list default="true" id="ed6ec958-0031-4437-a3f9-d5990ec354d5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -46,18 +17,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lang5.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lang5.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="82" column="58" lean-forward="false" selection-start-line="82" selection-start-column="58" selection-end-line="82" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -118,6 +78,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -132,13 +94,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cit94/week9" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
@@ -247,15 +207,16 @@
       <workItem from="1489082476685" duration="13000" />
       <workItem from="1489082508605" duration="6921000" />
       <workItem from="1489089756272" duration="499000" />
+      <workItem from="1489281457733" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12255000" />
+    <option name="totallyTimeSpent" value="12318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="970" height="1049" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -286,11 +247,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/lang5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -445,7 +413,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="802">
           <caret line="106" column="187" lean-forward="false" selection-start-line="106" selection-start-column="187" selection-end-line="106" selection-end-column="187" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -453,7 +420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="82" column="55" lean-forward="false" selection-start-line="82" selection-start-column="55" selection-end-line="82" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -461,7 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -469,7 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -477,7 +441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -485,7 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="82" column="62" lean-forward="false" selection-start-line="82" selection-start-column="62" selection-end-line="82" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -493,7 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="82" column="62" lean-forward="false" selection-start-line="82" selection-start-column="62" selection-end-line="82" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -501,7 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="82" column="62" lean-forward="false" selection-start-line="82" selection-start-column="62" selection-end-line="82" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
